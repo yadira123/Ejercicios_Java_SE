@@ -716,7 +716,7 @@ public class Ejercicios_JavaSE {
 //            System.out.println(num+" x "+i+" = "+res);
 //        }
         
-        
+        /*
         //5. Leer números y contar cuántos acaban en 2.
         int num, ultimoDigito, cantNum, cont=0, acabaEn2=0;
         String numero="";
@@ -735,7 +735,7 @@ public class Ejercicios_JavaSE {
                     
         }while(cantNum>cont);
         System.out.println(acabaEn2+" numeros acaban en 2.");
-        
+        */
 
 //        Scanner scn = new Scanner(System.in);
 //
